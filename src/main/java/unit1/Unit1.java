@@ -41,7 +41,7 @@ public class Unit1 {
   */
  public static boolean isTrue(boolean value) {
      // Your code here
-     if(value == true){
+     if(value){
         return true;
      }else{
         return false;
